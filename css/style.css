@@ -1,0 +1,41 @@
+body {
+    background-color:#E3ACF9;
+    margin: 0;
+}
+hr{
+    border-color: grey;
+    border-style: dotted none none none;
+    height:2px;
+    border-width:5px;
+    width:5%;
+}
+.top{
+    background-color: aliceblue;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    padding: 20px;
+    border-color: black;
+}
+.middle{
+    background-color: plum;
+    width: 200px;
+    height: 200px;
+    border: solid 20px;
+    margin-left: 260px;
+    border-color: black;
+}
+.bottom{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+    margin-left: 500px;
+    border-color: black;
+}
+h1{
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+}
